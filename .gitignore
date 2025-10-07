@@ -4,5 +4,7 @@ with_gen_ai/.env
 without_gen_ai/.venv/
 without_gen_ai/.idea/
 without_gen_ai/.env
-without_gen_ai/models/
+without_gen_ai/models/phi-2/model-00001-of-00003.safetensors
+without_gen_ai/models/phi-2/model-00002-of-00003.safetensors
+without_gen_ai/models/phi-2/model-00003-of-00003.safetensors
 .idea/
