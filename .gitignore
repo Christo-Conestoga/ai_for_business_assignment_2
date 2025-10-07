@@ -4,3 +4,5 @@ with_gen_ai/.env
 without_gen_ai/.venv/
 without_gen_ai/.idea/
 without_gen_ai/.env
+without_gen_ai/models/
+.idea/
